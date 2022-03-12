@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1647044058 source:c:\workspace\trabalhotp\trabalhotp\header.cpp
+	"header.h"
+
+1647044021 c:\workspace\trabalhotp\trabalhotp\header.h
+	"serializable.h"
+
+1647043997 c:\workspace\trabalhotp\trabalhotp\serializable.h
+	<string>
+
